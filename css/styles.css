@@ -585,6 +585,7 @@ footer nav{
 }
 
 footer .copy-logo{
+    display: flex;
     flex-direction: column;
 }
 
