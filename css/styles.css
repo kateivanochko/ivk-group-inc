@@ -577,7 +577,7 @@ footer .container{
     align-items: center;
 }
 
-
+footer .copy-logo,
 footer .social,
 footer nav{
     flex-grow: 1;
@@ -585,10 +585,7 @@ footer nav{
 }
 
 footer .copy-logo{
-    display: flex;
     flex-direction: column;
-    flex-grow: 1;
-    flex-basis: 0;
 }
 
 footer .copy-logo a{
