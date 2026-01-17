@@ -584,6 +584,16 @@ footer nav{
     flex-basis: 0;
 }
 
+footer .copy-logo{
+    display: flex;
+    flex-direction: column;
+}
+
+footer .copy-logo a{
+    font-size: 14px;
+    margin-top: 8px;
+}
+
 footer img{
     width: 150px;
 }
